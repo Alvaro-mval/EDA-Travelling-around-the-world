@@ -13,8 +13,17 @@ from bs4 import BeautifulSoup as bs
 # y descargamos varios ficheros excel correspondientes al numero de personas que trabajan para el turismo y varios datos de hoteles y acomodacion.
 
 # Leer desde JSON
-df_sector_turismo = pd.read_excel(r"C:\Users\Alvar\Documents\GitHub\Entornos-virtuales\EDA\data\llegadas_acomodacion\UN_Tourism_8_9_2_employed_persons_04_2025.xlsx",sheet_name=1, engine="openpyxl")
-df_accomodation = pd.read_excel(r"C:\Users\Alvar\Documents\GitHub\Entornos-virtuales\EDA\data\llegadas_acomodacion\UN_Tourism_accommodation_hotels_10_2025.xlsx",sheet_name=1, engine="openpyxl")
+df_sector_turismo = pd.read_excel(
+    os.path.join("data", "llegadas_acomodacion", "UN_Tourism_8_9_2_employed_persons_04_2025.xlsx"),
+    sheet_name=1,
+    engine="openpyxl"
+)
+
+df_accomodation = pd.read_excel(
+    os.path.join("data", "llegadas_acomodacion", "UN_Tourism_accommodation_hotels_10_2025.xlsx"),
+    sheet_name=1,
+    engine="openpyxl"
+)
 
 
 # %%

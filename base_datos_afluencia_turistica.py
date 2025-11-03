@@ -13,7 +13,11 @@ from bs4 import BeautifulSoup as bs
 # y nos descargamos un CSV con los datos de llegadas de pasajeros a nuestros paises.  
 
 # Leer desde JSON
-df_llegadas = pd.read_csv(r'C:\Users\Alvar\Documents\GitHub\Entornos-virtuales\EDA\data\llegadas_acomodacion\API_ST.INT.ARVL_DS2_es_csv_v2_34308.csv',on_bad_lines='warn', engine='python')
+df_llegadas = pd.read_csv(
+    os.path.join("data", "API_ST.INT.ARVL_DS2_es_csv_v2_34308.csv"),
+    on_bad_lines="warn",
+    engine="python"
+)
 
 
 # %%

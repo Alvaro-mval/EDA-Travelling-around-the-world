@@ -15,7 +15,10 @@ from bs4 import BeautifulSoup as bs
 import pandas as pd
 
 # Cargar los CSV en DataFrames
-df_best_restaurant = pd.read_csv(r'C:\Users\Alvar\Documents\GitHub\Entornos-virtuales\EDA\data\WorldsBestRestaurants.csv',encoding='latin-1')
+df_best_restaurant = pd.read_csv(
+    os.path.join("data", "WorldsBestRestaurants.csv"),
+    encoding="latin-1"
+)
 
 
 # %%

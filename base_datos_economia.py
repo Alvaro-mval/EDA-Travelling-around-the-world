@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup as bs
 #Importamos un archivo con variables economicas de los paises en cuestion, este excel se ha obtenido desde la web World Economics Outlook database
 
 # Cargar el archivo Excel
-df_excel = pd.read_excel(r"C:\Users\Alvar\Documents\GitHub\Entornos-virtuales\EDA\data\WEO_Data.xlsx")
+df_excel = pd.read_excel(os.path.join("data", "WEO_Data.xlsx"))
 
 
 # %%
