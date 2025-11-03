@@ -12,5 +12,3 @@ openpyxl==3.1.2
 geopy==2.4.1
 GitPython==3.1.43
 scipy==1.11.4
-selenium==4.23.1
-webdriver-manager==4.0.2
