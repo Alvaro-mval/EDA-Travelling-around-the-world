@@ -1,7 +1,6 @@
 # %%
 import folium # pip install folium
 from folium import plugins
-import ipywidgets
 import geocoder # pip install geocoder
 import geopy # pip install geopy
 import numpy as np
