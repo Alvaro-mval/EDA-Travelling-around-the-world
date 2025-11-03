@@ -7,6 +7,7 @@ import numpy as np
 import json
 import pprint
 import re
+import os
 from bs4 import BeautifulSoup as bs
 
 #Vamos a la web https://worldpopulationreview.com/country-rankings/friendliest-countries 
@@ -14,8 +15,7 @@ from bs4 import BeautifulSoup as bs
 #facilidad de adaptacion, bienvenida, amigos locales , facilidad para hacer amigos.
 
 # Leer desde JSON
-with open(r"C:\Users\Alvar\Documents\GitHub\Entornos-virtuales\EDA\data\friendliest-countries.json", "r", encoding="utf-8") as f:
-    paises_friendly_json = json.load(f)
+with open(os.path.join("data", "friendliest-countries.json"), "r", encoding="utf-8") as f:
 
 # %%
 df_paises_friendly = pd.DataFrame(paises_friendly_json)
