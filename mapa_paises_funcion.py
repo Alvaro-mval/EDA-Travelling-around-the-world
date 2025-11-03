@@ -4,7 +4,6 @@ from folium import plugins
 import numpy as np          
 import pandas as pd         
 from streamlit_folium import st_folium
-from IPython.display import clear_output, display
 
 # %%
 from merge_df import df_mundo_economics
