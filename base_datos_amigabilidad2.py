@@ -16,6 +16,7 @@ from bs4 import BeautifulSoup as bs
 
 # Leer desde JSON
 with open(os.path.join("data", "friendliest-countries.json"), "r", encoding="utf-8") as f:
+    data = json.load(f)
 
 # %%
 df_paises_friendly = pd.DataFrame(paises_friendly_json)
