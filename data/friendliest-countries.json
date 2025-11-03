@@ -1,0 +1,418 @@
+[
+    {
+        "flagCode": "CR",
+        "country": "Costa Rica",
+        "InterNationsEaseOfSettlingInIndex_2024": 1,
+        "InterNationsCultureAndWelcomeIndex_2024": 1,
+        "InterNationsLocalFriendlinessIndex_2024": 1,
+        "InterNationsFindingFriendsIndex_2024": 5
+    },
+    {
+        "flagCode": "MX",
+        "country": "Mexico",
+        "InterNationsEaseOfSettlingInIndex_2024": 2,
+        "InterNationsCultureAndWelcomeIndex_2024": 2,
+        "InterNationsLocalFriendlinessIndex_2024": 6,
+        "InterNationsFindingFriendsIndex_2024": 1
+    },
+    {
+        "flagCode": "PH",
+        "country": "Philippines",
+        "InterNationsEaseOfSettlingInIndex_2024": 3,
+        "InterNationsCultureAndWelcomeIndex_2024": 3,
+        "InterNationsLocalFriendlinessIndex_2024": 4,
+        "InterNationsFindingFriendsIndex_2024": 2
+    },
+    {
+        "flagCode": "ID",
+        "country": "Indonesia",
+        "InterNationsEaseOfSettlingInIndex_2024": 4,
+        "InterNationsCultureAndWelcomeIndex_2024": 4,
+        "InterNationsLocalFriendlinessIndex_2024": 2,
+        "InterNationsFindingFriendsIndex_2024": 4
+    },
+    {
+        "flagCode": "BR",
+        "country": "Brazil",
+        "InterNationsEaseOfSettlingInIndex_2024": 5,
+        "InterNationsCultureAndWelcomeIndex_2024": 5,
+        "InterNationsLocalFriendlinessIndex_2024": 3,
+        "InterNationsFindingFriendsIndex_2024": 6
+    },
+    {
+        "flagCode": "TH",
+        "country": "Thailand",
+        "InterNationsEaseOfSettlingInIndex_2024": 6,
+        "InterNationsCultureAndWelcomeIndex_2024": 7,
+        "InterNationsLocalFriendlinessIndex_2024": 9,
+        "InterNationsFindingFriendsIndex_2024": 8
+    },
+    {
+        "flagCode": "PA",
+        "country": "Panama",
+        "InterNationsEaseOfSettlingInIndex_2024": 7,
+        "InterNationsCultureAndWelcomeIndex_2024": 8,
+        "InterNationsLocalFriendlinessIndex_2024": 13,
+        "InterNationsFindingFriendsIndex_2024": 3
+    },
+    {
+        "flagCode": "CO",
+        "country": "Colombia",
+        "InterNationsEaseOfSettlingInIndex_2024": 8,
+        "InterNationsCultureAndWelcomeIndex_2024": 10,
+        "InterNationsLocalFriendlinessIndex_2024": 7,
+        "InterNationsFindingFriendsIndex_2024": 11
+    },
+    {
+        "flagCode": "KE",
+        "country": "Kenya",
+        "InterNationsEaseOfSettlingInIndex_2024": 9,
+        "InterNationsCultureAndWelcomeIndex_2024": 14,
+        "InterNationsLocalFriendlinessIndex_2024": 11,
+        "InterNationsFindingFriendsIndex_2024": 7
+    },
+    {
+        "flagCode": "GR",
+        "country": "Greece",
+        "InterNationsEaseOfSettlingInIndex_2024": 10,
+        "InterNationsCultureAndWelcomeIndex_2024": 9,
+        "InterNationsLocalFriendlinessIndex_2024": 12,
+        "InterNationsFindingFriendsIndex_2024": 9
+    },
+    {
+        "flagCode": "ES",
+        "country": "Spain",
+        "InterNationsEaseOfSettlingInIndex_2024": 11,
+        "InterNationsCultureAndWelcomeIndex_2024": 6,
+        "InterNationsLocalFriendlinessIndex_2024": 14,
+        "InterNationsFindingFriendsIndex_2024": 10
+    },
+    {
+        "flagCode": "OM",
+        "country": "Oman",
+        "InterNationsEaseOfSettlingInIndex_2024": 12,
+        "InterNationsCultureAndWelcomeIndex_2024": 12,
+        "InterNationsLocalFriendlinessIndex_2024": 8,
+        "InterNationsFindingFriendsIndex_2024": 14
+    },
+    {
+        "flagCode": "VN",
+        "country": "Vietnam",
+        "InterNationsEaseOfSettlingInIndex_2024": 13,
+        "InterNationsCultureAndWelcomeIndex_2024": 15,
+        "InterNationsLocalFriendlinessIndex_2024": 5,
+        "InterNationsFindingFriendsIndex_2024": 15
+    },
+    {
+        "flagCode": "EG",
+        "country": "Egypt",
+        "InterNationsEaseOfSettlingInIndex_2024": 14,
+        "InterNationsCultureAndWelcomeIndex_2024": 22,
+        "InterNationsLocalFriendlinessIndex_2024": 10,
+        "InterNationsFindingFriendsIndex_2024": 12
+    },
+    {
+        "flagCode": "AR",
+        "country": "Argentina",
+        "InterNationsEaseOfSettlingInIndex_2024": 15,
+        "InterNationsCultureAndWelcomeIndex_2024": 11,
+        "InterNationsLocalFriendlinessIndex_2024": 15,
+        "InterNationsFindingFriendsIndex_2024": 19
+    },
+    {
+        "flagCode": "AE",
+        "country": "United Arab Emirates",
+        "InterNationsEaseOfSettlingInIndex_2024": 16,
+        "InterNationsCultureAndWelcomeIndex_2024": 13,
+        "InterNationsLocalFriendlinessIndex_2024": 16,
+        "InterNationsFindingFriendsIndex_2024": 22
+    },
+    {
+        "flagCode": "LA",
+        "country": "Laos",
+        "InterNationsEaseOfSettlingInIndex_2024": 17,
+        "InterNationsCultureAndWelcomeIndex_2024": 16,
+        "InterNationsLocalFriendlinessIndex_2024": 22,
+        "InterNationsFindingFriendsIndex_2024": 17
+    },
+    {
+        "flagCode": "BH",
+        "country": "Bahrain",
+        "InterNationsEaseOfSettlingInIndex_2024": 18,
+        "InterNationsCultureAndWelcomeIndex_2024": 20,
+        "InterNationsLocalFriendlinessIndex_2024": 21,
+        "InterNationsFindingFriendsIndex_2024": 18
+    },
+    {
+        "flagCode": "CN",
+        "country": "China",
+        "InterNationsEaseOfSettlingInIndex_2024": 19,
+        "InterNationsCultureAndWelcomeIndex_2024": 27,
+        "InterNationsLocalFriendlinessIndex_2024": 18,
+        "InterNationsFindingFriendsIndex_2024": 16
+    },
+    {
+        "flagCode": "AU",
+        "country": "Australia",
+        "InterNationsEaseOfSettlingInIndex_2024": 20,
+        "InterNationsCultureAndWelcomeIndex_2024": 17,
+        "InterNationsLocalFriendlinessIndex_2024": 20,
+        "InterNationsFindingFriendsIndex_2024": 27
+    },
+    {
+        "flagCode": "NZ",
+        "country": "New Zealand",
+        "InterNationsEaseOfSettlingInIndex_2024": 21,
+        "InterNationsCultureAndWelcomeIndex_2024": 18,
+        "InterNationsLocalFriendlinessIndex_2024": 17,
+        "InterNationsFindingFriendsIndex_2024": 26
+    },
+    {
+        "flagCode": "PE",
+        "country": "Peru",
+        "InterNationsEaseOfSettlingInIndex_2024": 22,
+        "InterNationsCultureAndWelcomeIndex_2024": 19,
+        "InterNationsLocalFriendlinessIndex_2024": 23,
+        "InterNationsFindingFriendsIndex_2024": 23
+    },
+    {
+        "flagCode": "ZA",
+        "country": "South Africa",
+        "InterNationsEaseOfSettlingInIndex_2024": 23,
+        "InterNationsCultureAndWelcomeIndex_2024": 24,
+        "InterNationsLocalFriendlinessIndex_2024": 28,
+        "InterNationsFindingFriendsIndex_2024": 13
+    },
+    {
+        "flagCode": "MY",
+        "country": "Malaysia",
+        "InterNationsEaseOfSettlingInIndex_2024": 24,
+        "InterNationsCultureAndWelcomeIndex_2024": 25,
+        "InterNationsLocalFriendlinessIndex_2024": 24,
+        "InterNationsFindingFriendsIndex_2024": 24
+    },
+    {
+        "flagCode": "SA",
+        "country": "Saudi Arabia",
+        "InterNationsEaseOfSettlingInIndex_2024": 25,
+        "InterNationsCultureAndWelcomeIndex_2024": 23,
+        "InterNationsLocalFriendlinessIndex_2024": 26,
+        "InterNationsFindingFriendsIndex_2024": 25
+    },
+    {
+        "flagCode": "CM",
+        "country": "Cambodia",
+        "InterNationsEaseOfSettlingInIndex_2024": 26,
+        "InterNationsCultureAndWelcomeIndex_2024": 39,
+        "InterNationsLocalFriendlinessIndex_2024": 25,
+        "InterNationsFindingFriendsIndex_2024": 21
+    },
+    {
+        "flagCode": "HK",
+        "country": "Hong Kong",
+        "InterNationsEaseOfSettlingInIndex_2024": 27,
+        "InterNationsCultureAndWelcomeIndex_2024": 21,
+        "InterNationsLocalFriendlinessIndex_2024": 39,
+        "InterNationsFindingFriendsIndex_2024": 20
+    },
+    {
+        "flagCode": "US",
+        "country": "United States",
+        "InterNationsEaseOfSettlingInIndex_2024": 28,
+        "InterNationsCultureAndWelcomeIndex_2024": 26,
+        "InterNationsLocalFriendlinessIndex_2024": 27,
+        "InterNationsFindingFriendsIndex_2024": 31
+    },
+    {
+        "flagCode": "IE",
+        "country": "Bolivia",
+        "InterNationsEaseOfSettlingInIndex_2024": 29,
+        "InterNationsCultureAndWelcomeIndex_2024": 32,
+        "InterNationsLocalFriendlinessIndex_2024": 19,
+        "InterNationsFindingFriendsIndex_2024": 38
+    },
+    {
+        "flagCode": "SG",
+        "country": "Singapore",
+        "InterNationsEaseOfSettlingInIndex_2024": 30,
+        "InterNationsCultureAndWelcomeIndex_2024": 30,
+        "InterNationsLocalFriendlinessIndex_2024": 34,
+        "InterNationsFindingFriendsIndex_2024": 28
+    },
+    {
+        "flagCode": "BE",
+        "country": "Belgium",
+        "InterNationsEaseOfSettlingInIndex_2024": 31,
+        "InterNationsCultureAndWelcomeIndex_2024": 29,
+        "InterNationsLocalFriendlinessIndex_2024": 32,
+        "InterNationsFindingFriendsIndex_2024": 30
+    },
+    {
+        "flagCode": "MT",
+        "country": "Malta",
+        "InterNationsEaseOfSettlingInIndex_2024": 32,
+        "InterNationsCultureAndWelcomeIndex_2024": 37,
+        "InterNationsLocalFriendlinessIndex_2024": 35,
+        "InterNationsFindingFriendsIndex_2024": 29
+    },
+    {
+        "flagCode": "IT",
+        "country": "Italy",
+        "InterNationsEaseOfSettlingInIndex_2024": 33,
+        "InterNationsCultureAndWelcomeIndex_2024": 31,
+        "InterNationsLocalFriendlinessIndex_2024": 37,
+        "InterNationsFindingFriendsIndex_2024": 36
+    },
+    {
+        "flagCode": "FR",
+        "country": "France",
+        "InterNationsEaseOfSettlingInIndex_2024": 34,
+        "InterNationsCultureAndWelcomeIndex_2024": 28,
+        "InterNationsLocalFriendlinessIndex_2024": 42,
+        "InterNationsFindingFriendsIndex_2024": 34
+    },
+    {
+        "flagCode": "JP",
+        "country": "Japan",
+        "InterNationsEaseOfSettlingInIndex_2024": 35,
+        "InterNationsCultureAndWelcomeIndex_2024": 40,
+        "InterNationsLocalFriendlinessIndex_2024": 29,
+        "InterNationsFindingFriendsIndex_2024": 39
+    },
+    {
+        "flagCode": "KR",
+        "country": "South Korea",
+        "InterNationsEaseOfSettlingInIndex_2024": 36,
+        "InterNationsCultureAndWelcomeIndex_2024": 41,
+        "InterNationsLocalFriendlinessIndex_2024": 31,
+        "InterNationsFindingFriendsIndex_2024": 35
+    },
+    {
+        "flagCode": "PL",
+        "country": "Poland",
+        "InterNationsEaseOfSettlingInIndex_2024": 37,
+        "InterNationsCultureAndWelcomeIndex_2024": 36,
+        "InterNationsLocalFriendlinessIndex_2024": 40,
+        "InterNationsFindingFriendsIndex_2024": 33
+    },
+    {
+        "flagCode": "LU",
+        "country": "Luxembourg",
+        "InterNationsEaseOfSettlingInIndex_2024": 38,
+        "InterNationsCultureAndWelcomeIndex_2024": 33,
+        "InterNationsLocalFriendlinessIndex_2024": 36,
+        "InterNationsFindingFriendsIndex_2024": 45
+    },
+    {
+        "flagCode": "CA",
+        "country": "Canada",
+        "InterNationsEaseOfSettlingInIndex_2024": 39,
+        "InterNationsCultureAndWelcomeIndex_2024": 35,
+        "InterNationsLocalFriendlinessIndex_2024": 30,
+        "InterNationsFindingFriendsIndex_2024": 46
+    },
+    {
+        "flagCode": "TR",
+        "country": "Turkey",
+        "InterNationsEaseOfSettlingInIndex_2024": 40,
+        "InterNationsCultureAndWelcomeIndex_2024": 42,
+        "InterNationsLocalFriendlinessIndex_2024": 38,
+        "InterNationsFindingFriendsIndex_2024": 32
+    },
+    {
+        "flagCode": "NL",
+        "country": "Netherlands",
+        "InterNationsEaseOfSettlingInIndex_2024": 41,
+        "InterNationsCultureAndWelcomeIndex_2024": 38,
+        "InterNationsLocalFriendlinessIndex_2024": 33,
+        "InterNationsFindingFriendsIndex_2024": 44
+    },
+    {
+        "flagCode": "GB",
+        "country": "United Kingdom",
+        "InterNationsEaseOfSettlingInIndex_2024": 42,
+        "InterNationsCultureAndWelcomeIndex_2024": 34,
+        "InterNationsLocalFriendlinessIndex_2024": 41,
+        "InterNationsFindingFriendsIndex_2024": 41
+    },
+    {
+        "flagCode": "CL",
+        "country": "Chile",
+        "InterNationsEaseOfSettlingInIndex_2024": 43,
+        "InterNationsCultureAndWelcomeIndex_2024": 43,
+        "InterNationsLocalFriendlinessIndex_2024": 43,
+        "InterNationsFindingFriendsIndex_2024": 37
+    },
+    {
+        "flagCode": "HU",
+        "country": "Hungary",
+        "InterNationsEaseOfSettlingInIndex_2024": 44,
+        "InterNationsCultureAndWelcomeIndex_2024": 48,
+        "InterNationsLocalFriendlinessIndex_2024": 44,
+        "InterNationsFindingFriendsIndex_2024": 43
+    },
+    {
+        "flagCode": "DK",
+        "country": "Denmark",
+        "InterNationsEaseOfSettlingInIndex_2024": 45,
+        "InterNationsCultureAndWelcomeIndex_2024": 44,
+        "InterNationsLocalFriendlinessIndex_2024": 45,
+        "InterNationsFindingFriendsIndex_2024": 47
+    },
+    {
+        "flagCode": "CH",
+        "country": "Switzerland",
+        "InterNationsEaseOfSettlingInIndex_2024": 46,
+        "InterNationsCultureAndWelcomeIndex_2024": 45,
+        "InterNationsLocalFriendlinessIndex_2024": 46,
+        "InterNationsFindingFriendsIndex_2024": 48
+    },
+    {
+        "flagCode": "SE",
+        "country": "Sweden",
+        "InterNationsEaseOfSettlingInIndex_2024": 48,
+        "InterNationsCultureAndWelcomeIndex_2024": 49,
+        "InterNationsLocalFriendlinessIndex_2024": 47,
+        "InterNationsFindingFriendsIndex_2024": 49
+    },
+    {
+        "flagCode": "AT",
+        "country": "Austria",
+        "InterNationsEaseOfSettlingInIndex_2024": 49,
+        "InterNationsCultureAndWelcomeIndex_2024": 46,
+        "InterNationsLocalFriendlinessIndex_2024": 52,
+        "InterNationsFindingFriendsIndex_2024": 42
+    },
+    {
+        "flagCode": "FI",
+        "country": "Finland",
+        "InterNationsEaseOfSettlingInIndex_2024": 50,
+        "InterNationsCultureAndWelcomeIndex_2024": 51,
+        "InterNationsLocalFriendlinessIndex_2024": 48,
+        "InterNationsFindingFriendsIndex_2024": 52
+    },
+    {
+        "flagCode": "DE",
+        "country": "Germany",
+        "InterNationsEaseOfSettlingInIndex_2024": 51,
+        "InterNationsCultureAndWelcomeIndex_2024": 52,
+        "InterNationsLocalFriendlinessIndex_2024": 49,
+        "InterNationsFindingFriendsIndex_2024": 50
+    },
+    {
+        "flagCode": "NO",
+        "country": "Norway",
+        "InterNationsEaseOfSettlingInIndex_2024": 52,
+        "InterNationsCultureAndWelcomeIndex_2024": 50,
+        "InterNationsLocalFriendlinessIndex_2024": 50,
+        "InterNationsFindingFriendsIndex_2024": 51
+    },
+    {
+        "flagCode": "KW",
+        "country": "Kuwait",
+        "InterNationsEaseOfSettlingInIndex_2024": 53,
+        "InterNationsCultureAndWelcomeIndex_2024": 53,
+        "InterNationsLocalFriendlinessIndex_2024": 53,
+        "InterNationsFindingFriendsIndex_2024": 53
+    }
+]

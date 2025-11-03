@@ -1,0 +1,187 @@
+{
+    "header": {
+        "name": "uneclac cepalstat api",
+        "version": "1.9.13",
+        "success": true,
+        "machine": "01",
+        "context": "public",
+        "code": 200,
+        "message": "",
+        "timestamp": 1760714315
+    },
+    "body": {
+        "metadata": {
+            "indicator_id": 2203,
+            "indicator_name": "Producto interno bruto (PIB) total anual a precios corrientes en dólares",
+            "theme": "Estadísticas e Indicadores Económicos",
+            "area": "Cuentas nacionales anuales en dólares",
+            "note": "",
+            "unit": "Millones de dólares",
+            "data_features": "",
+            "definition": "El producto interno bruto (PIB) es el valor del flujo de bienes y servicios producidos en un país a precios de mercado para cada año durante un período de referencia determinado. Las cifras se expresan en dólares de Estados Unidos.\r\nTotales regionales y subregionales en base a los datos disponibles de los países de la región.",
+            "calculation_methodology": "La metodología adoptada para elaborar las cuentas nacionales de la región a precios corrientes consiste en transformar las series en moneda nacional en dolares corrientes de cada año utilizando el tipo de cambio rf publicado por el Fondo Monetario Internacional.",
+            "comments": "",
+            "decimals": 0,
+            "last_update": "Oct  8 2025  1:50PM"
+        },
+        "data": [
+            {
+                "value": "1256175.842774408",
+                "source_id": 1753,
+                "notes_ids": "",
+                "iso3": "MEX",
+                "dim_208": 233,
+                "dim_29117": 29188
+            },
+            {
+                "value": "222534.6785158513",
+                "source_id": 1753,
+                "notes_ids": "",
+                "iso3": "PER",
+                "dim_208": 244,
+                "dim_29117": 29188
+            },
+            {
+                "value": "40287.64793047612",
+                "source_id": 1753,
+                "notes_ids": "",
+                "iso3": "BOL",
+                "dim_208": 221,
+                "dim_29117": 29188
+            },
+            {
+                "value": "295907.4804220808",
+                "source_id": 1753,
+                "notes_ids": "",
+                "iso3": "CHL",
+                "dim_208": 224,
+                "dim_29117": 29188
+            },
+            {
+                "value": "334253.5561418068",
+                "source_id": 1753,
+                "notes_ids": "",
+                "iso3": "COL",
+                "dim_208": 225,
+                "dim_29117": 29188
+            },
+            {
+                "value": "62439.25183646737",
+                "source_id": 1753,
+                "notes_ids": "",
+                "iso3": "CRI",
+                "dim_208": 226,
+                "dim_29117": 29188
+            }
+        ],
+        "dimensions": [
+            {
+                "id": 208,
+                "name": "País__ESTANDAR",
+                "order": 1,
+                "position": 3,
+                "members": [
+                    {
+                        "name": "Bolivia (Estado Plurinacional de)",
+                        "id": 221,
+                        "in": 1,
+                        "order": 90,
+                        "parent": 208,
+                        "selected": 1
+                    },
+                    {
+                        "name": "Chile",
+                        "id": 224,
+                        "in": 1,
+                        "order": 110,
+                        "parent": 208,
+                        "selected": 1
+                    },
+                    {
+                        "name": "Colombia",
+                        "id": 225,
+                        "in": 1,
+                        "order": 120,
+                        "parent": 208,
+                        "selected": 1
+                    },
+                    {
+                        "name": "Costa Rica",
+                        "id": 226,
+                        "in": 1,
+                        "order": 130,
+                        "parent": 208,
+                        "selected": 1
+                    },
+                    {
+                        "name": "México",
+                        "id": 233,
+                        "in": 1,
+                        "order": 265,
+                        "parent": 208,
+                        "selected": 1
+                    },
+                    {
+                        "name": "Perú",
+                        "id": 244,
+                        "in": 1,
+                        "order": 310,
+                        "parent": 208,
+                        "selected": 1
+                    }
+                ]
+            },
+            {
+                "id": 29117,
+                "name": "Años__ESTANDAR",
+                "order": 0,
+                "position": 2,
+                "members": [
+                    {
+                        "name": "2018",
+                        "id": 29188,
+                        "in": 1,
+                        "order": 2018,
+                        "parent": 29117,
+                        "selected": 1
+                    }
+                ]
+            }
+        ],
+        "sources": [
+            {
+                "id": 1753,
+                "description": "Estimaciones propias con base en fuentes oficiales",
+                "publication_url": "",
+                "organization_acronym": "CEPAL",
+                "organization_name": "Comisión Económica para América Latina y el Caribe",
+                "organization_url": "http://www.cepal.org"
+            }
+        ],
+        "footnotes": [],
+        "credits": [
+            {
+                "id": 0,
+                "description": "2025-10-17"
+            },
+            {
+                "id": 1,
+                "description": "CEPALSTAT"
+            },
+            {
+                "id": 2,
+                "description": "Comisión Económica para América Latina y el Caribe – CEPAL"
+            },
+            {
+                "id": 3,
+                "description": "Naciones Unidas"
+            }
+        ]
+    },
+    "footer": {
+        "records": 6,
+        "elapsed_time": "0.05228",
+        "ip": "88.2.229.78",
+        "query": "http://api-cepalstat.cepal.org/cepalstat/api/v1/indicator/2203/data?members=221,224,225,226,233,244,29188&lang=es&format=json&in=1&app=dashboard"
+    }
+}
