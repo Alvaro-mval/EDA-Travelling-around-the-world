@@ -7,6 +7,7 @@ import numpy as np
 import json
 import pprint
 import re
+import os
 from bs4 import BeautifulSoup as bs
 
 #Vamos a la web https://datos.bancomundial.org/indicador/ST.INT.ARVL?end=2020&start=2020&year=2020 

@@ -7,6 +7,7 @@ import numpy as np
 import json
 import pprint
 import re
+import os
 from bs4 import BeautifulSoup as bs
 
 #Importamos un archivo con variables economicas de los paises en cuestion, este excel se ha obtenido desde la web World Economics Outlook database

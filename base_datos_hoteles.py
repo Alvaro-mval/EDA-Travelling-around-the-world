@@ -7,6 +7,7 @@ import numpy as np
 import json
 import pprint
 import re
+import os
 from bs4 import BeautifulSoup as bs
 
 #Vamos a la web https://www.untourism.int/tourism-statistics 
