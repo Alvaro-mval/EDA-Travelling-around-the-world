@@ -1,21 +1,9 @@
 # %%
-import folium # pip install folium
-from folium import plugins
-import geocoder # pip install geocoder
-import geopy # pip install geopy
-import numpy as np
-import pandas as pd
-from vega_datasets import data as vds # pip install vega_datasets
-import hashlib
-import requests
-from datetime import datetime
-import pandas as pd
-import numpy as np
-import json
-import pprint
-import re
+import folium
+from folium import plugins 
+import numpy as np          
+import pandas as pd         
 from streamlit_folium import st_folium
-from bs4 import BeautifulSoup as bs
 from IPython.display import clear_output, display
 
 # %%
