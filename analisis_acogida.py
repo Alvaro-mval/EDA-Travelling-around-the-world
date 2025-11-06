@@ -1,14 +1,5 @@
 # %%
-import hashlib
-import requests
-from datetime import datetime
 import pandas as pd
-import numpy as np
-import json
-import pprint
-import openpyxl
-import re
-from bs4 import BeautifulSoup as bs
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -19,8 +10,8 @@ from bootcampviztools import plot_categorical_relationship_fin, pinta_distribuci
         grafico_dispersion_con_correlacion
 from scipy.stats import chi2_contingency, mannwhitneyu
 from scipy.stats import pearsonr
-from merge_df import df_mundo_economics
 
+df_mundo_economics = pd.read_csv('merge.csv', encoding='utf-8')
 # %%
 def data_frame_acogida1(df_mundo_economics):
 

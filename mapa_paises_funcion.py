@@ -1,12 +1,12 @@
 # %%
 import folium
-from folium import plugins 
-import numpy as np          
+        
 import pandas as pd         
-from streamlit_folium import st_folium
 
+
+
+df_mundo_economics = pd.read_csv('merge.csv', encoding='utf-8')
 # %%
-from merge_df import df_mundo_economics
 
 # %%
 def preparar_coordenadas(df_mundo_economics):

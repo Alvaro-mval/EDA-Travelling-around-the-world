@@ -82,6 +82,6 @@ df_mundo_economics12 = pd.merge(df_mundo_economics11,df_carreteras1, how='left')
 df_mundo_economics = pd.merge(df_mundo_economics12,df_muertes_carreteras1, how='left')
 
 # %%
-
+df_mundo_economics.to_csv('merge.csv', index=False)
 
 

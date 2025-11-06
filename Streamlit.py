@@ -1,8 +1,6 @@
 # %%
 import streamlit as st
 import pandas as pd
-
-from merge_df import df_mundo_economics
 from analisis_acogida_streamlit import analisis_acogida_streamlit
 from analisis_economico_streamlit import analisis_economico_streamlit
 from analisis_gastronomia_streamlit import analisis_gastronomia_streamlit
@@ -14,6 +12,7 @@ from analisis_univariable_streamlit import analisis_univariante_streamlit
 from mapa_paises_streamlit import mapa_paises_streamlit
 from funcion_destinos_streamlit import funcion_destinos_streamlit
 
+df_mundo_economics = pd.read_csv('merge.csv', encoding='utf-8')
 # %%
 st.set_page_config(page_title="Dashboard Turístico", layout="wide")
 st.title("🌎 Dashboard de Análisis Turístico Internacional")
